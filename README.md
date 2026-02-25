@@ -1,4 +1,4 @@
-# mini-http-serve
+# mini-http-server
 
 i built this because i was tired of using abstractions i didn’t fully understand
 

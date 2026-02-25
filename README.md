@@ -1,5 +1,4 @@
-# mini-http-server
-# mini http server (in rust)
+# mini-http-serve
 
 i built this because i was tired of using abstractions i didn’t fully understand
 
